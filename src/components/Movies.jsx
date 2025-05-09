@@ -2,7 +2,7 @@ import React from "react";
 import MovieCard from "./MovieCard";
 import { useEffect, useState } from "react";
 import axios from "axios";
-import Pagination from "./PAgination";
+import Pagination from "./Pagination";
 import Banner from "./Banner";
 
 // intercepter in axios
